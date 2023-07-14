@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left :50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+}
